@@ -1,6 +1,8 @@
 # Google Cloud Next 2019 Breakout: Open Systems: key to unlocking multi-cloud and new businesses with Lyft, Juniper, Google
 #gcp #cloud
 
+- https://www.youtube.com/watch?v=1s4Vvwyxrp0
+
 - definition of “open systems”
 	- open standards
 	- open apis
