@@ -1,6 +1,8 @@
 # Google Cloud Next 2019 Breakout: Complete Production Observability with OpenCensus
 #gcp #cloud
 
+- https://www.youtube.com/watch?v=259NX1-jrUQ
+
 * TODO
 	* **compare Zipkin vs. Prometheus vs. Jaeger**
 * distributed tracing and metrics
