@@ -38,7 +38,7 @@
 		- transforms students from passive consumers -> creators
 		- what tech empowers in the students
 	- See picture for google transformation in their district
-![](Google%20Cloud%20Next%202019%20Breakout:%20For%20Parents%20and%20Guardians:%20How%20Your%20Child%20Uses%20Google%20in%20Class/20190410_155137.jpg)
+![](images/20190410_155137.jpg)
 	- as an administrator
 		- job is to help schools and teachers execute this transformation
 	- what is the role of centralized IT for a school district
@@ -52,6 +52,6 @@
 				- GooglePalooza
 					- program that has 1500-2000 educators that teach how to use technology
 					- see picture
-![](Google%20Cloud%20Next%202019%20Breakout:%20For%20Parents%20and%20Guardians:%20How%20Your%20Child%20Uses%20Google%20in%20Class/20190410_155634.jpg)
+![](images/20190410_155634.jpg)
 		
 			

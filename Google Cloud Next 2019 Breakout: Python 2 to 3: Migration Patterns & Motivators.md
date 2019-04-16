@@ -47,14 +47,14 @@ f”hello {place}”
 - migration patterns
 	- “suggested migration steps”
 		- see picture
-![](Google%20Cloud%20Next%202019%20Breakout:%20Python%202%20to%203:%20Migration%20Patterns%20&%20Motivators/20190411_115644.jpg)
+![](images/20190411_115644.jpg)
 		- seems reasonable and too focused on libraries
 - anti-patterns
 	- see picture
-![](Google%20Cloud%20Next%202019%20Breakout:%20Python%202%20to%203:%20Migration%20Patterns%20&%20Motivators/20190411_115909.jpg)
+![](images/20190411_115909.jpg)
 - a realistic migration pattern
 	- see picture and declare victory
-![](Google%20Cloud%20Next%202019%20Breakout:%20Python%202%20to%203:%20Migration%20Patterns%20&%20Motivators/20190411_120012.jpg)
+![](images/20190411_120012.jpg)
 - migration tools
 	- compatibility libs
 		- six

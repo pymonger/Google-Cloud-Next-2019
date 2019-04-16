@@ -9,14 +9,14 @@
 * can export to multiple backends at once
 * will announce production readiness for python this month
 	* see picture
-![](Google%20Cloud%20Next%202019%20Breakout:%20Complete%20Production%20Observability%20with%20OpenCensus/20190411_090707.jpg)
+![](images/20190411_090707.jpg)
 
 * OpenCensus + OpenTracing merger = ?
 	* new name at KubeCon EU
 * candidate recommendation for W3C trace context specification
 * OC (OpenCensus agent) = collects traces from apps and forwards to OC collector to forward to backends
 	* see picture
-![](Google%20Cloud%20Next%202019%20Breakout:%20Complete%20Production%20Observability%20with%20OpenCensus/20190411_091503.jpg)
+![](images/20190411_091503.jpg)
 
 * OpenCensus Client Libraries
 	* instantiate tracer
@@ -27,24 +27,24 @@
 		* do actual work
 		* end span
 * OpenCensus Service
-![](Google%20Cloud%20Next%202019%20Breakout:%20Complete%20Production%20Observability%20with%20OpenCensus/20190411_092041.jpg)
+![](images/20190411_092041.jpg)
 
 	* can be deployed as a binary, docker, kube sidecar
 	* see picture for service performance
-![](Google%20Cloud%20Next%202019%20Breakout:%20Complete%20Production%20Observability%20with%20OpenCensus/20190411_092356.jpg)
+![](images/20190411_092356.jpg)
 
 	* see picture for intelligent sampling
-![](Google%20Cloud%20Next%202019%20Breakout:%20Complete%20Production%20Observability%20with%20OpenCensus/20190411_092504.jpg)
+![](images/20190411_092504.jpg)
 	* separate traces by
 		* all traces
 		* errors
 * Distributed Tracing Demo
 	* distributed hipster store app
 		* see picture
-![](Google%20Cloud%20Next%202019%20Breakout:%20Complete%20Production%20Observability%20with%20OpenCensus/20190411_092938.jpg)
+![](images/20190411_092938.jpg)
 
 	* construct hipster demo graph entirely from traces
 		* see picture
-![](Google%20Cloud%20Next%202019%20Breakout:%20Complete%20Production%20Observability%20with%20OpenCensus/20190411_093039.jpg)
+![](images/20190411_093039.jpg)
 * https://github.com/census-instrumentation
-![](Google%20Cloud%20Next%202019%20Breakout:%20Complete%20Production%20Observability%20with%20OpenCensus/20190411_093350.jpg)
+![](images/20190411_093350.jpg)
