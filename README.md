@@ -1,14 +1,13 @@
 # Google Cloud Next 2019
 
-[](Bootcamp at Google Cloud Next 2019: Serverless Machine Learning With Cloud ML.md)
-Google Cloud Next 2019 Breakout: Complete Production Observability with OpenCensus.md
-Google Cloud Next 2019 Breakout: Dead Easy Kubernetes Workflows with VS Code.md
-Google Cloud Next 2019 Breakout: For Parents and Guardians: How Your Child Uses Google in Class.md
-Google Cloud Next 2019 Breakout: Making Planet Scale Geospatial Processing Possible with BigQuery GIS.md
-Google Cloud Next 2019 Breakout: Open Systems: key to unlocking multi-cloud and new businesses with Lyft, Juniper, Google.md
-Google Cloud Next 2019 Breakout: Project Creation Using Terraform and Cost Controls.md
-Google Cloud Next 2019 Breakout: Python 2 to 3: Migration Patterns & Motivators.md
-Google Cloud Next 2019 Breakout: Understanding the Earth: ML with Kubeflow Pipelines.md
-Google Cloud Next 2019: A Year in GCP Networking.md
-Google Cloud Next 2019: Keynote.md
-
+- [](Bootcamp-Serverless_Machine_Learning_with_Cloud_ML.md)
+- [](Keynote.md)
+- [](A_Year_in_GCP_Networking.md)
+- [](Complete_Production_Observability_with_OpenCensus.md)
+- [](Dead_Easy_Kubernetes_Workflows_with_VS_Code.md)
+- [](How_Your_Child_Uses_Google_in_Class.md)
+- [](Making Planet_Scale_Geospatial_Processing_Possible_with_BigQuery_GIS.md)
+- [](Open_Systems-key_to_unlocking_multi-cloud_and_new_businesses_with_Lyft_Juniper_Google.md)
+- [](Project_Creation_Using_Terraform_and_Cost_Controls.md)
+- [](Python_2_to_3-Migration_Patterns_and_Motivators.md)
+- [](Understanding_the_Earth-ML_with_Kubeflow_Pipelines.md)
