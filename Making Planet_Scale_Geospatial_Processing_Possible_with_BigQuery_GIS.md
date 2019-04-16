@@ -1,6 +1,8 @@
 # Google Cloud Next 2019 Breakout: Making Planet Scale Geospatial Processing Possible with BigQuery GIS
 #gcp #cloud
 
+- https://www.youtube.com/watch?v=ANrS_5mh7Pk
+
 * Descartes Labs - Founding team from Los Alamos National Laboratory 2014 Santa Fe, NM
 ![](images/20190411_102628.jpg)
 ![](images/20190411_102837.jpg)
