@@ -1,6 +1,8 @@
 # Google Cloud Next 2019 Breakout: Dead Easy Kubernetes Workflows with VS Code
 #gcp #cloud
 
+- https://www.youtube.com/watch?v=62GLbBDLiPE
+
 * Cloud Code
 	* integrated tools on GCP
 	* Cloud Code for Visual Studio Code
