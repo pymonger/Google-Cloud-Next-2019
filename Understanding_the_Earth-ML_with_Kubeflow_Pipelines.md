@@ -1,6 +1,8 @@
 # Google Cloud Next 2019 Breakout: Understanding the Earth: ML with Kubeflow Pipelines
 #gcp #cloud
 
+- https://www.youtube.com/watch?v=DjP24I_WKWw
+
 * Sentinel-1A - Camp fire image showing plumes of smoke
 	* Show short-wave infrared to show actual fires
 * Computer vision for the earth
