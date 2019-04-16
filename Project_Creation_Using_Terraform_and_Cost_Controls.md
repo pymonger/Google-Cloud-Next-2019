@@ -1,6 +1,8 @@
 # Google Cloud Next 2019 Breakout: Project Creation Using Terraform and Cost Controls
 #gcp #cloud
 
+- https://www.youtube.com/watch?v=kfjy8vkxgtk
+
 * build a set of GCP best practices
 * organize  resources
 	* folders & projects
