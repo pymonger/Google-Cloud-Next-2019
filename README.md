@@ -1,5 +1,6 @@
 # Google Cloud Next 2019
 
+- All videos available at: https://www.youtube.com/user/googlecloudplatform/videos
 - [Bootcamp - Serverless Machine Learning with Cloud ML](Bootcamp-Serverless_Machine_Learning_with_Cloud_ML.md)
 - [Keynote](Keynote.md)
 - [A Year in GCP Networking](A_Year_in_GCP_Networking.md)
