@@ -1,6 +1,8 @@
 # Google Cloud Next 2019: A Year in GCP Networking
 #gcp #cloud
 
+- https://www.youtube.com/watch?v=gNx2iMhOm7Q
+
 - Global VPC - 19 regions 1 VPC
 	- uses same backbone
 	- private connections
