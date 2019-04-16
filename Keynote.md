@@ -1,6 +1,8 @@
 # Google Cloud Next 2019: Keynote
 #gcp #cloud
 
+- https://www.youtube.com/watch?v=XGrlWVWlpgE&t=0s
+
 ## Anthos
 - on-prem, multi-, hybrid cloud 
 - tech stack can run in data center
